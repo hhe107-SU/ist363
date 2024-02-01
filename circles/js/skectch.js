@@ -2,7 +2,7 @@ let canvasWidth= 800;
 let canvasHeight= 800;
 
 function setup() {
-    //Create a Canvas to draw on
+    //Create a Canvas to  on
     //800x800px
     createCanvas(canvasWidth,canvasHeight);
 
